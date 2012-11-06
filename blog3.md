@@ -1,4 +1,4 @@
 #The new blog for Forever 21, set to launch late July, will focus on extended trend information,
 videos and stylist How-To’s. Editorial in nature and fshion-forward in tone, the blog is sure to become one of the fashion’s most visited resources.
 
-blog 3 4 5 6 7 8
+blog 3 4 5 6 7 8 9
