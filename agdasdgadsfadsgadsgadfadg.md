@@ -1,7 +1,3 @@
 agdasdgadsfadsgadsgadfadg
 content
 hihihi
-coolcoolcool
-pipi
-popo
-pooooo
