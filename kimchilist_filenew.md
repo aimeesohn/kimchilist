@@ -1,3 +1,0 @@
-SAVE YOUR PROGRESS
-
-While working on a feature, you’ll want to save progress at various stages. Sometimes you’ll just want to save locally; maybe you’re offline, or maybe you don’t want others to see your changes just yet, for this, navigate down to the feature, and select “Save Changes Locally”. This will display a window showing all the files which have changed. You can go ahead and select the files you want to save, add, or delete from management. If you want to share changes, select “Save Centrally”. This saves your changes to GitHub for all to see.
